@@ -1,7 +1,6 @@
 {
-  "name": "Live Gram Bot",
-  "description": "Modular  Telegram Bot powered by @PyroGram!",
-  "logo": "https://telegra.ph/file/38892636183a19871ec14.jpg",
+  "name": "LiveChatBot",
+  "description": "Telegram LiveChatBot",
   "keywords": [
     "telegram",
     "bot",
@@ -12,9 +11,9 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/levina-lab/LiveGrambot",
-  "website": "https://telegram.dog/dlwrml",
-  "success_url": "https://t.me/levinachannel",
+  "repository": "https://github.com/higio97/LiveChatBot",
+  "website": "https://telegram.dog/newzoneid",
+  "success_url": "https://t.me/newzoneid",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal"
